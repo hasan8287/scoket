@@ -1,6 +1,6 @@
 # WEB SOCKET
 
-## REQURED
+## REQUIRED
 
 - node v 12
 
@@ -18,7 +18,7 @@
 - npm i
 - npm start
 
-## GUIDE USE
+## SAMPLE GUIDE USE
 
 - open 2 tab websocket
 - join with same room
